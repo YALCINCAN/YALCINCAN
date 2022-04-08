@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yalçın</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- 🌱 I’m currently learning **.Net,VueJS,Typescript,Quasar Framework,TailwindCSS**
 
-- 📫 How to reach me **ylcn58_can@hotmail.com**
+
+<p align="center">I’m currently learning .Net,VueJS,Typescript,Quasar Framework,TailwindCSS</p>
+
+<p align="center"> How to reach me ylcn58_can@hotmail.com</p>
+
 
 
 <p align="center">
