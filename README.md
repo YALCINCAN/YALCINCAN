@@ -3,7 +3,7 @@
 
 
 
-<p align="center">I’m currently learning .Net,VueJS,Typescript,Quasar Framework,TailwindCSS</p>
+<p align="center">I’m currently learning .Net,VueJS,Typescript,Quasar Framework,TailwindCSS,Docker</p>
 
 <p align="center"> How to reach me ylcn58_can@hotmail.com</p>
 
