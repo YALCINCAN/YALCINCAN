@@ -3,7 +3,7 @@
 
 
 
-<p align="center">My Tech Stack</p>
+<p align="center">Technologies I use and continue to learn</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
