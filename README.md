@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yalçın</h1>
-<h3 align="center">Junior Software Developer 24 yo</h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=6000&center=true&vCenter=true&width=700&lines=Hello+I'm+Yal%C3%A7%C4%B1n+Junior+Software+Developer"></p>
 
 <h1 align="center">Tech Stack</h1>
 
