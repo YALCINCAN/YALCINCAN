@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yalçın</h1>
 <h3 align="center">Junior Software Developer 24 yo</h3>
 
-
-
-<p align="center">Technologies I use and continue to learn</p>
+<h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -24,11 +22,13 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">   
-</p>  
-<p align="center"> How to reach me ylcn58_can@hotmail.com</p>
+</p>
 
 
-
+<h1 align="center">Github Stats </h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALCINCAN&layout=compact&theme=tokyonight&count_private=true" alt="YALCINCAN" height="160" />
 </p>
+
+<h1 align="center">Connect With Me</h1>
+<p align="center">ylcn58_can@hotmail.com</p>
