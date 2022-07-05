@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=6000&center=true&vCenter=true&width=700&lines=Hello+I'm+Yal%C3%A7%C4%B1n"></p>
 
 
-<h4 align="center">I'm a self-taught Junior Software Developer.</h4>
+<h4 align="center">I'm a self-taught Software Developer.</h4>
 <h4 align="center">I try to educate myself by doing side projects and researching and applying current technologies and best practices in these projects.</h4>
 
 
