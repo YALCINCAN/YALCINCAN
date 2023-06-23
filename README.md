@@ -2,7 +2,7 @@
 
 
 <h4 align="center">I'm a self-taught Software Developer.</h4>
-<h4 align="center">I try to educate myself by doing side projects and researching and applying current technologies and best practices in these projects.</h4>
+
 
 
 <h1 align="center">Tech Stack</h1>
